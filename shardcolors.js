@@ -19,6 +19,12 @@ var jumpColors = {
 	18: 'enl',
 	19: 'jump',
 	23: 'enl',
+	24: 'jump',
+	25: 'enl',
+	26: 'enl',
+	27: 'res',
+	28: 'res',
+	
     },
     6: {
 	1: 'jump',
